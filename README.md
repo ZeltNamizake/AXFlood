@@ -37,8 +37,11 @@ git clone https://github.com/ZeltNamizake/AXFlood
 ```bash
 cd AXFlood
 ```
-###### Run Axflood
+###### Run AXFlood
 ```bash
 node index
 ```
-You also need to install Nodejs first before running AXFlood 
+You also need to install Nodejs first before running AXFlood
+
+## Add User-Agent
+You can add a User-Agent in the file  `axflood.js`
