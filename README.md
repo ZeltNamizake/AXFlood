@@ -43,5 +43,11 @@ node index
 ```
 You also need to install Nodejs first before running AXFlood
 
-## Add User-Agent
-You can add a User-Agent in the file  `axflood.js`
+## Settings
+You can make changes in the file `axflood.js`
+###### Add User-Agent
+```javascript
+//UserAgent
+var UserAgent = [""] //String User-Agent in Array
+```
+
