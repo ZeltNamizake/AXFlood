@@ -44,10 +44,14 @@ node index
 You also need to install Nodejs first before running AXFlood
 
 ## Settings
-You can make changes in the file `axflood.js`
+You can make changes in the file  `axflood.js`
 ###### Add User-Agent
 ```javascript
 //UserAgent
-var UserAgent = [""] //String User-Agent in Array
+var UserAgent = [""] //String User-Agent
 ```
-
+###### Set function speed
+```javascript
+//Change to 3000 to set and adjust the speed 
+setInterval(getflood, 3000)
+```
