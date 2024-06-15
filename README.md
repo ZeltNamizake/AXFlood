@@ -8,7 +8,7 @@ HTTP GET Flood using module Axios in Nodejs
 </p>
 </div>
 
-## Install
+## Install AXFlood in Linux and Unix
 ```bash
 apt update && apt upgrade -y
 ```
@@ -16,11 +16,29 @@ apt update && apt upgrade -y
 ```bash
 apt install git && apt install nodejs
 ```
-###### Clone the Repository and install the module
+###### Clone the Repository
 ```bash
-git clone https://github.com/ZeltNamizake/AXFlood && cd AXFlood && yarn
+git clone https://github.com/ZeltNamizake/AXFlood
+```
+###### Open Directory AXFlood
+```bash
+cd AXFlood
 ```
 ###### Run AXFlood
 ```bash
 node axflood
 ```
+## Install AXFlood in Windows with Gitbash
+###### Clone the Repository
+```bash
+git clone https://github.com/ZeltNamizake/AXFlood
+```
+###### Open Directory
+```bash
+cd AXFlood
+```
+###### Run Axflood
+```bash
+node index
+```
+You also need to install Nodejs first before running AXFlood 
