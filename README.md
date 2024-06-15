@@ -39,7 +39,7 @@ cd AXFlood
 ```
 ###### Run AXFlood
 ```bash
-node index
+node axflood
 ```
 You also need to install Nodejs first before running AXFlood
 
