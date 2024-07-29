@@ -14,7 +14,7 @@ apt update && apt upgrade -y
 ```
 ###### If you don't have Git and Nodejs
 ```bash
-apt install git && apt install nodejs
+apt install git nodejs -y
 ```
 ###### Clone the Repository
 ```bash
